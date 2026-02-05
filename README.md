@@ -1,12 +1,75 @@
-# React + Vite
+# Grocify – Online Grocery Store 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive online grocery shopping web application where users can browse products, filter items, view testimonials, and navigate between pages smoothly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## Expanding the ESLint configuration
+**Grocify** is a frontend web application built to simulate an online grocery store experience.  
+Users can explore grocery products, apply filters, and enjoy a clean, responsive UI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project focuses on:
+- Clean user interface
+- Mobile responsiveness
+- Smooth navigation
+- Reusable React components
+
+---
+
+## 🛠 Tech Stack
+
+- React.js  
+- React Router  
+- JavaScript  
+- Tailwind CSS  
+
+---
+
+## ✨ Features
+
+- 🛍 Product listing  
+- 🔍 Product filtering  
+- 🗂 Category-based browsing  
+- 🧭 Page navigation using React Router  
+- ⭐ Testimonials section  
+- 📱 Fully responsive UI  
+
+---
+
+## 📸 Screenshots
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Home</b><br/>
+      <img src="screenshots/home.png" width="100%"/>
+    </td>
+    <td align="center">
+      <b>Products</b><br/>
+      <img src="screenshots/products.png" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Cart</b><br/>
+      <img src="screenshots/cart.png" width="100%"/>
+    </td>
+    <td align="center">
+      <b>Filter</b><br/>
+      <img src="screenshots/filter.png" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Testimonials</b><br/>
+      <img src="screenshots/testimonial.png" width="100%"/>
+    </td>
+    <td align="center">
+      <b>Checkout</b><br/>
+      <img src="screenshots/checkout.png" width="100%"/>
+    </td>
+  </tr>
+</table>
