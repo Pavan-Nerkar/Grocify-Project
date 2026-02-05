@@ -39,37 +39,35 @@ This project focuses on:
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <table>
   <tr>
     <td align="center">
       <b>Home</b><br/>
-      <img src="screenshots/home.png" width="100%"/>
+      <img src="Screenshots/home.png" width="100%"/>
     </td>
     <td align="center">
-      <b>Products</b><br/>
-      <img src="screenshots/products.png" width="100%"/>
+      <b>Categories</b><br/>
+      <img src="Screenshots/categories.png" width="100%"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Cart</b><br/>
-      <img src="screenshots/cart.png" width="100%"/>
+      <b>All Products</b><br/>
+      <img src="Screenshots/all_products.png" width="100%"/>
     </td>
     <td align="center">
-      <b>Filter</b><br/>
-      <img src="screenshots/filter.png" width="100%"/>
+      <b>Process</b><br/>
+      <img src="Screenshots/process.png" width="100%"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>Testimonials</b><br/>
-      <img src="screenshots/testimonial.png" width="100%"/>
+      <img src="Screenshots/testomoni.png" width="100%"/>
     </td>
     <td align="center">
-      <b>Checkout</b><br/>
-      <img src="screenshots/checkout.png" width="100%"/>
+      <b>Values</b><br/>
+      <img src="Screenshots/values.png" width="100%"/>
     </td>
   </tr>
 </table>
